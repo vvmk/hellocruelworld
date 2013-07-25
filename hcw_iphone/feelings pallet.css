@@ -1,0 +1,126 @@
+/*
+*they all need a one px white border, 160x220 for the normal size pngs,
+*the circle behind the card numbers needs to be drawn with each image 
+*so the colors match.
+*/
+
+
+.color30 {
+	color: #e30010;
+}
+
+.color29 {
+	color: #e35548;
+}
+
+.color28 {
+	color: #e36d48;
+}
+
+.color27 {
+	color: #e38148;
+}
+
+.color26 {
+	color: #e38f48;
+}
+
+.color25 {
+	color: #e39948;
+}
+
+.color24 {
+	color: #e39400;
+}
+
+.color23 {
+	color: #e2a400;
+}
+
+.color22 {
+	color: #e3b500;
+}
+
+.color21 {
+	color: #dec100;
+}
+
+.color20 {
+	color: #dbcf00;
+}
+
+.color19 {
+	color: #dde000;
+}
+
+.color18 {
+	color: #cfe300;
+}
+
+.color17 {
+	color: #b5df00;
+}
+
+.color16 {
+	color: #8ddd00;
+}
+
+.color15 {
+	color: #4bde00;
+}
+
+.color14 {
+	color: #18db00;
+}
+
+.color13 {
+	color: #00dc31;
+}
+
+.color12 {
+	color: #00e191;
+}
+
+.color11 {
+	color: #00bae3;
+}
+
+.color10 {
+	color: #0095e1;
+}
+
+.color9 {
+	color: #007bdf;
+}
+
+.color8 {
+	color: #0059e3;
+}
+
+.color7 {
+	color: #0500e3;
+}
+
+.color6 {
+	color: #4f00e3;
+}
+
+.color5 {
+	color: #2c00e3;
+}
+
+.color4 {
+	color: #7800dd;
+}
+
+.color3 {
+	color: #9000e3;
+}
+
+.color2 {
+	color: #c600e3;
+}
+
+.color1 {
+    color: black;
+}
